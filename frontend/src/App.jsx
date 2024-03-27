@@ -11,7 +11,8 @@ function App() {
       <Hero />
       
 <body class="text-gray-600">
-    <div class="grid md:grid-cols-3 "><!--content wraper-->
+    <div class="grid md:grid-cols-3 ">
+      {/* <!--content wraper--> */}
         <div class="col-span-1 md:flex md:justify-end">
             <nav class="text-right">
                 <div>
